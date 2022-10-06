@@ -1,2 +1,2 @@
 # nubiscursor.github.io
-GitHub Repository where I.T project will be documented
+GitHub Repository where I.T projects will be documented
